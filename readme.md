@@ -23,7 +23,7 @@ An intelligent Telegram chatbot powered by Google Gemini AI that provides contex
 
 ## 🏗️ Architecture
 
-[![1751711464079](image/telegram_bot_readme/1751711464079.png)](https://drive.google.com/file/d/1B_bo-yQkWyaN44q2T2Bz8UmoxuNyUwvZ/view?usp=drive_link)
+https://drive.google.com/file/d/1B_bo-yQkWyaN44q2T2Bz8UmoxuNyUwvZ/view?usp=drive_link
 
 ```mermaid
 graph LR
